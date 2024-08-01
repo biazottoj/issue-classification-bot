@@ -3,7 +3,7 @@
 ## Introduction
 TagDebt is a tool designed to automate the labeling of GitHub issues using machine learning (ML). It analyzes the content of issues (titles, descriptions), assigns relevant labels, and sends email notifications, facilitating easier issue tracking and management. This bot is particularly useful for large projects where manual issue tracking and categorization can be time-consuming.
 
-## Requirements
+## Requirements for your own deployment of the bot
 - **Docker Compose installed** (check [installation guide](https://docs.docker.com/compose/install))
 - **Smee CLI installed** (check [installation guide](https://github.com/probot/smee-client))
 - **Storage:**
